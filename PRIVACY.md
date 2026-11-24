@@ -2,7 +2,7 @@
 
 Published by ViVa Labs · Updated 24 November 2026
 
-This policy covers the Ribbon Atelier Android game and its support site. You can play the complete puzzle collection offline, without creating an account. For a question about your information or your child’s information, contact [support@varshita.in](mailto:support@varshita.in?subject=Ribbon%20Atelier%20privacy).
+This policy covers the Ribbon Atelier Android game and its support site. You can play the complete puzzle collection offline, without creating an account. For a question about your information or your child’s information, contact [hello@vivalabs.dev](mailto:hello@vivalabs.dev?subject=Ribbon%20Atelier%20privacy).
 
 ## Your saved game
 
@@ -43,4 +43,4 @@ Clearing the game’s storage erases your progress and its saved advertising eli
 
 Players, parents and guardians can ask ViVa Labs to review or delete support information or stop further use of a child’s information. Identify the game and the email address used to contact us. We may need to verify your connection to the information before responding.
 
-[support@varshita.in](mailto:support@varshita.in?subject=Ribbon%20Atelier%20privacy%20request) [Google privacy controls](https://policies.google.com/privacy#infochoices)
+[hello@vivalabs.dev](mailto:hello@vivalabs.dev?subject=Ribbon%20Atelier%20privacy%20request) [Google privacy controls](https://policies.google.com/privacy#infochoices)

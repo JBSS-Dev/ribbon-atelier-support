@@ -35,7 +35,7 @@ Google uses ad-service information to deliver and measure ads, assess performanc
 
 If you email us, ViVa Labs and its email service provider receive your email address and the details you send. We use that information to reply and resolve the issue. Please send only what is needed to investigate your question. A pattern name and Android version are usually enough. Parents and guardians can write on a child’s behalf.
 
-Correspondence remains in the support mailbox until deleted. You can ask us to delete messages you have sent. This support site serves its own images and fonts. GitHub Pages hosts the site and records visitors’ IP addresses for security. [GitHub privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+Correspondence remains in the support mailbox until deleted. You can ask us to delete messages you have sent. This support site serves its own images and fonts. ViVa Labs hosts the support site on its Temkeep server. Cloudflare processes web requests, including visitors’ IP addresses, to deliver and protect the site. GitHub hosts a copy of this policy and redirects visitors from the former support address. [Cloudflare privacy policy](https://www.cloudflare.com/privacypolicy/) · [GitHub privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
 ## Choices and deletion requests
 
